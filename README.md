@@ -188,7 +188,6 @@ Measures how well the model explains the variation in house prices.
 **Higher R² = Better performance**
 
 ---
-
 ## 📁 Project Directory
 
 ```text
@@ -197,24 +196,6 @@ House-Price-Prediction-System/
 ├── 📓 15_4_house_price_prediction.ipynb
 ├── 📄 housing.csv
 └── 📄 README.md
-
----
-🚀 Installation & Setup
-1️⃣ Clone the Repository
-git clone https://github.com/Sakshi-Jadhav73/House-Price-Prediction-System.git
-2️⃣ Navigate to the Project
-cd House-Price-Prediction-System
-3️⃣ Install Required Libraries
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-4️⃣ Run Jupyter Notebook
-jupyter notebook
-
-Open:
-
-15_4_house_price_prediction.ipynb
-
-and run the notebook cells step by step.
----
 
 ## 🎓 Key Learning Outcomes
 
