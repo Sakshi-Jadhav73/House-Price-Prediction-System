@@ -191,19 +191,11 @@ Measures how well the model explains the variation in house prices.
 
 ## 📁 Project Directory
 
-```text
-House-Price-Prediction/
+House-Price-Prediction-System/
 │
-├── 📂 Dataset/
-│   └── 📄 housing.csv
-│
-├── 📂 Notebook/
-│   └── 📓 house_price_prediction.ipynb
-│
-├── 📄 README.md
-│
-└── 📄 requirements.txt
-```
+├── 📓 15_4_house_price_prediction.ipynb
+├── 📄 housing.csv
+└── 📄 README.md
 
 ---
 
