@@ -199,56 +199,21 @@ House-Price-Prediction-System/
 └── 📄 README.md
 
 ---
-
-## 🚀 Installation & Setup
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone YOUR-GITHUB-LINK
-```
-
-### 2️⃣ Navigate to the Project
-
-```bash
-cd House-Price-Prediction
-```
-
-### 3️⃣ Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4️⃣ Run Jupyter Notebook
-
-```bash
+🚀 Installation & Setup
+1️⃣ Clone the Repository
+git clone https://github.com/Sakshi-Jadhav73/House-Price-Prediction-System.git
+2️⃣ Navigate to the Project
+cd House-Price-Prediction-System
+3️⃣ Install Required Libraries
+pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+4️⃣ Run Jupyter Notebook
 jupyter notebook
-```
 
-Open the notebook from the `Notebook` folder and run the cells step by step.
+Open:
 
----
+15_4_house_price_prediction.ipynb
 
-## 📦 Requirements
-
-Create a `requirements.txt` file containing:
-
-```text
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-jupyter
-```
-
-Install them using:
-
-```bash
-pip install -r requirements.txt
-```
-
+and run the notebook cells step by step.
 ---
 
 ## 🎓 Key Learning Outcomes
