@@ -188,14 +188,76 @@ Measures how well the model explains the variation in house prices.
 **Higher R² = Better performance**
 
 ---
+
 ## 📁 Project Directory
 
 ```text
-House-Price-Prediction-System/
+House-Price-Prediction/
 │
-├── 📓 15_4_house_price_prediction.ipynb
-├── 📄 housing.csv
-└── 📄 README.md
+├── 📂 Dataset/
+│   └── 📄 housing.csv
+│
+├── 📂 Notebook/
+│   └── 📓 house_price_prediction.ipynb
+│
+├── 📄 README.md
+│
+└── 📄 requirements.txt
+```
+
+---
+
+## 🚀 Installation & Setup
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone YOUR-GITHUB-LINK
+```
+
+### 2️⃣ Navigate to the Project
+
+```bash
+cd House-Price-Prediction
+```
+
+### 3️⃣ Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4️⃣ Run Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+Open the notebook from the `Notebook` folder and run the cells step by step.
+
+---
+
+## 📦 Requirements
+
+Create a `requirements.txt` file containing:
+
+```text
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+```
+
+Install them using:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
 ## 🎓 Key Learning Outcomes
 
 Through this project, I learned how to:
