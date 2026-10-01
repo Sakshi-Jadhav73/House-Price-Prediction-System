@@ -196,7 +196,6 @@ House-Price-Prediction-System/
 ├── 📓 15_4_house_price_prediction.ipynb
 ├── 📄 housing.csv
 └── 📄 README.md
-
 ## 🎓 Key Learning Outcomes
 
 Through this project, I learned how to:
