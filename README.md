@@ -191,6 +191,7 @@ Measures how well the model explains the variation in house prices.
 
 ## 📁 Project Directory
 
+```text
 House-Price-Prediction-System/
 │
 ├── 📓 15_4_house_price_prediction.ipynb
